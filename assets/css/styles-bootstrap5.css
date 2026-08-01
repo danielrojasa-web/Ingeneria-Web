@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+/*Clases especiales*/
+
+.titulo{
+    height:50px;
+}
+.titulo .col{
+    height: 100%;
+}
+
+/*Contenedor*/
+.contenedor{
+    display:flex;
+    width: 80%;
+    flex-flow: column wrap;
+    max-width: 1280px;
+    margin:auto;
+}
+/*Navegador*/
+nav{
+    display:flex;
+    height: 50px;
+}
+
+.logo{ 
+    flex: 20%;
+    height: 100%;
+    padding:5px;
+}
+.menu{ 
+    flex: 65%;
+    height: 100%;
+    padding: 5px;
+    
+}
+.login{ 
+    flex: 15%;
+    height: 100%;
+    padding: 5px;
+    
+}
