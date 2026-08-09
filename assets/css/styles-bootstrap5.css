@@ -227,11 +227,11 @@ header {
 
 footer {
     height: 60px;
-    justify-content: right;
-    text-align: right;
+    justify-content: center;
+    text-align: center;
     display: flex;
     color: white;
-    background-color: #343A40;
+    background-color: #00947F;
 }
 
 /*TABLET*/
@@ -255,7 +255,6 @@ footer {
     /* Navegador */
     nav {
         width: 100%;
-        background-color: red;
     }
 
 
