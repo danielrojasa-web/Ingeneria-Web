@@ -86,7 +86,7 @@ header {
 }
 
 .portafolio {
-    background-color: #F8F9FA;
+    background-color: red;
     height: 680px;
     width: 100%;
 }
@@ -94,6 +94,7 @@ header {
 .portafolio .port-col {
     padding: 10px;
     text-align: center;
+    background-color: yellow;
 }
 
 .portafolio img {
@@ -176,6 +177,7 @@ footer {
 
     .portafolio {
         height: 800px;
+        color:red;
     }
     .nosotros{
         height: 800PX;
@@ -196,7 +198,8 @@ footer {
     }
 
     .portafolio {
-        height: 1100px;
+        color:red;
+        height: 2100px;
     }
   .nosotros {
         height: 800px;
@@ -213,6 +216,7 @@ footer {
     }
 
     .portafolio {
-        height: 1400px;
+        color:red;
+        height: 4000px;
     }
 }
