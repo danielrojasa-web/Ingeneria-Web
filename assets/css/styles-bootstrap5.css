@@ -22,8 +22,8 @@
 
 /* Navegador */
 nav {
-    width: 90%;
-    position: fixed;
+    width: 100%;
+    /* position: fixed; */
     top: 0;
     text-align: right;
     /* left: 10%;
@@ -54,9 +54,17 @@ nav {
 .login {
     height: 100%;
     padding: 5px;
-    text-align: center;
-    background-color: green;
-    border-radius: 20%;
+    text-align: left;
+   
+
+    /* background-color: green; */
+    /* border-radius: 20%; */
+}
+
+.login .btn{
+    width: 90%;
+    /* background-color: red; */
+    /* color: red; */
 }
 
 /* Contenedor */
